@@ -9,7 +9,7 @@
 
 </div>
 
-i'm a developer from ho chi minh city, vietnam.
+i'm a developer.
 i like building things for the web, learning how systems work under the hood, and sharing what i learn along the way.
 
 most days you'll find me somewhere between frontend and backend, trying to make things a little better than yesterday.
